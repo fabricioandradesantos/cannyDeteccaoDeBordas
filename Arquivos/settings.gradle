@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name='cannyDeteccaoDeBordas'
+include ':openCVLibrary343'
