@@ -14,7 +14,10 @@ Para satisfazer tais condições, Canny utilizou um cálculo de variações, vis
 
 [Wikipédia](https://pt.wikipedia.org/wiki/Detector_de_bordas_de_Canny)
 
-# Implementação baseada no livro: "OpenCV Android Programming By Example" de Amgad Muhammad
+### [Laplacian Edge Detection](https://github.com/fabriicioa/laplaceDeteccaoDeBordas)
+### [Sobel Operator](https://github.com/fabriicioa/sobelDeteccaoDeBordas)
+
+## Implementação baseada no livro: "OpenCV Android Programming By Example" de Amgad Muhammad
 
 ## Imagens do app
 <a href="url"><img src="https://github.com/fabriicioa/cannyDeteccaoDeBordas/blob/master/Arquivos/img1.png" align="left" height="480" width="260" ></a>
