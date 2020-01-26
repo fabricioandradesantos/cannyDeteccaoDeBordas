@@ -14,6 +14,8 @@ Para satisfazer tais condições, Canny utilizou um cálculo de variações, vis
 
 [Wikipédia](https://pt.wikipedia.org/wiki/Detector_de_bordas_de_Canny)
 
+### Biblioteca utilizada para o processamento digital de imagens [OpenCV](https://opencv.org/) (Versão 3.4.3)
+
 ### [Laplacian Edge Detection](https://github.com/fabriicioa/laplaceDeteccaoDeBordas)
 ### [Sobel Operator](https://github.com/fabriicioa/sobelDeteccaoDeBordas)
 
