@@ -1,19 +1,6 @@
 # Detector de bordas de Canny
 ## Canny edge detector
 
-Desenvolvido por John F. Canny em 1986 o detector de bordas de Canny utiliza um algoritmo multi-estágios para detectar uma ampla margem de bordas na imagem. Canny também desenvolveu uma teoria computacional sobre detecção de bordas explicando porque as técnicas funcionam.
-John Canny propôs que o detector de bordas ótimo deveria respeitar os seguintes parâmetros:
-
--- Boa Detecção - O algoritmo deve ser capaz de identificar todas as bordas possíveis na imagem.
-
--- Boa Localização - As bordas encontradas devem estar o mais próximo possível das bordas da imagem original.
-
--- Resposta Mínima - Cada borda da imagem deve ser marcada apenas uma vez. O ruído da imagem não deve criar falsas bordas.
-
-Para satisfazer tais condições, Canny utilizou um cálculo de variações, visando encontrar uma função que otimizasse o funcional desejado. A função ideal para o detector de Canny é descrito pela soma de quatro termos de exponenciais, que pode ser aproximada pela primeira derivada de uma gaussiana.
-
-[Wikipédia](https://pt.wikipedia.org/wiki/Detector_de_bordas_de_Canny)
-
 ### Biblioteca utilizada para o processamento digital de imagens [OpenCV](https://opencv.org/) (Versão 3.4.3)
 
 ### [Laplacian Edge Detection](https://github.com/fabriicioa/laplaceDeteccaoDeBordas)
